@@ -28,6 +28,6 @@ public class Texture {
 
 	public static Texture cement = new Texture("res/cement.jpg", 2473);
 	public static Texture brick = new Texture("res/brick.jpg", 774);
-	public static Texture gravel = new Texture("res/gravel.png", 381);
-	public static Texture stone = new Texture("res/stone.png", 867);
+	public static Texture gravel = new Texture("res/gravel.jpg", 381);
+	public static Texture stone = new Texture("res/stone.jpg", 867);
 }
